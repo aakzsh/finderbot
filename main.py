@@ -25,8 +25,13 @@ async def search(ctx):
 async def attack(ctx):
     await ctx.send('🥺🥺🥺🥺🥺')
 
+@bot.command()
+async def aakash(ctx):
+    await ctx.send('good guy bang')
 
 
 
 
-bot.run('add token here')
+
+
+bot.run('ODU4MzMyMzkxOTAzMTk5MjYy.YNcmVQ.k634BIcOJGZiReHJykicFHp_FVk')
