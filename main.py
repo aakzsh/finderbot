@@ -34,4 +34,4 @@ async def aakash(ctx):
 
 
 
-bot.run('ODU4MzMyMzkxOTAzMTk5MjYy.YNcmVQ.k634BIcOJGZiReHJykicFHp_FVk')
+bot.run('bro')
